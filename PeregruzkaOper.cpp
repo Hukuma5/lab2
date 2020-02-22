@@ -4,7 +4,7 @@ using namespace std;
 
 class Vector
 {
-	int n;
+	int n;jj
 	double* a;
 public:
 	/*Vector()
