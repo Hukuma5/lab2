@@ -11,7 +11,7 @@ public:
 	{
 		int m = 0;
 		double* p = new double[m];
-		p[0] = 0;fff
+		p[0] = 0;
 	}*/
 	Vector(double* a, int n)
 	{
